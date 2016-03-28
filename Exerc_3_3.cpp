@@ -7,7 +7,7 @@ Mariam Mahoob
 Mariam Jobe
 Linhang Nie
 Demonstration code: [<12424>]
-Important, No code no bonus!
+Important, No code no bonus! Mariam
 ====================================== */
 
 #include <stdio.h>
